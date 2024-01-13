@@ -1,4 +1,4 @@
-####1 How to deal with high fanout (unverified)
+#### 1 How to deal with high fanout (unverified)
 The common pratice of dealing with high fanout with innovus is to first split the fanout and then use buffer tree to deal with load
 
 Run the following command before ecoPlace and ecoRoute
